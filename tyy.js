@@ -13,3 +13,6 @@ window.onclick = function(event) {
       }
    }
 }
+function Showtextin(Showintext){
+  document.getElementById('showtext').value = Showintext;
+}
